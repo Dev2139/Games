@@ -9,7 +9,7 @@ let score = 0;
 function startGame() {
     resetGame();
     spawnNumber();
-    spawnNumber();
+    spawnNumber();m
 }
 
 function resetGame() {
